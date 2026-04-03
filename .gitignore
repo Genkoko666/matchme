@@ -28,3 +28,4 @@ data.env
 alembic/versions/*.pyc
 
 *.env
+.idea/
