@@ -26,3 +26,5 @@ booking.db
 .env.*
 data.env
 alembic/versions/*.pyc
+
+secret.env
